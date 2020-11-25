@@ -1,0 +1,58 @@
+body {
+    background-color: #999999;
+    color: black;
+}
+
+a:active,
+a:hover,
+a:visited {
+    color: white;
+}
+
+table {
+    width: 672px;
+    border: none;
+    margin: 2pt;
+    padding: 2pt;
+    background-color: white;
+}
+
+table tr td {
+    text-align: center;
+}
+
+#belso {
+    width: 650px;
+    border: none;
+    color: white;
+}
+
+#belso tr td {
+    background-color: #485808;
+    height: 60pt;
+    margin: 2pt;
+    padding: 2pt;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+#belso tr td:last-child {
+    font-weight: bold;
+    font-size: larger;
+}
+
+#bal {
+    text-align: left;
+}
+
+#tablee {
+    align-items: center;
+}
+
+#cai {
+    border: black 2px;
+    align-items: center;
+}
